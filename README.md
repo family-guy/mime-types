@@ -16,7 +16,7 @@
 - [IANA](https://www.iana.org/) maintain an [exhaustive list](https://www.iana.org/assignments/media-types/media-types.xhtml). 
 
 - Each row contains a MIME type's:
- 1. Name
- 2. Description
- 3. Extension
+    1. Name
+    2. Description
+    3. Extension
 
